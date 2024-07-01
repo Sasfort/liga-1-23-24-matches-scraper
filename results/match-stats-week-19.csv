@@ -1,0 +1,10 @@
+away_corner_kick,away_foul,away_offside,away_pass_fail,away_pass_success,away_possession,away_red_card,away_score,away_shot,away_shot_accuracy,away_shot_on_target,away_tackle_success,away_team,away_yellow_card,home_corner_kick,home_foul,home_offside,home_pass_fail,home_pass_success,home_possession,home_red_card,home_score,home_shot,home_shot_accuracy,home_shot_on_target,home_tackle_success,home_team,home_yellow_card,stadium,week
+3,7,3,76,425,70,0,2,15,50,6,5,BORNEO FC SAMARINDA,2,4,17,3,86,186,30,1,1,8,42.86,3,10,BALI UNITED FC,3,"Stadion Kapten I Wayan Dipta, Gianyar",19
+4,22,6,97,291,49,1,1,16,23.08,3,18,PSS SLEMAN,2,2,23,1,73,314,51,0,1,9,50,4,7,PERSIS SOLO,2,"Stadion Maguwoharjo, Sleman",19
+5,13,0,75,308,53,0,2,7,42.86,3,13,AREMA FC,4,6,7,0,72,283,47,0,2,20,40,6,11,PERSIB BANDUNG,1,"Stadion Gelora Bandung Lautan Api, Bandung",19
+2,10,1,67,200,34,0,1,13,50,5,14,PSM MAKASSAR,1,8,13,4,78,392,66,0,1,10,25,2,3,DEWA UNITED FC,4,"Stadion Indomilk Arena, Tangerang",19
+2,25,2,75,253,51,0,1,11,33.33,3,10,BHAYANGKARA PRESISI INDONESIA FC,4,3,20,1,93,247,49,0,1,15,36.36,4,14,RANS NUSANTARA FC,1,"Stadion Maguwoharjo, Sleman",19
+5,18,2,58,247,37,0,0,14,50,5,8,PERSITA TANGERANG,2,4,16,3,64,439,63,0,4,19,43.75,7,15,PSIS SEMARANG,1,"Stadion Jatidiri, Semarang",19
+5,12,1,55,315,45,0,0,11,42.86,3,19,PERSIKABO 1973,1,6,14,2,58,389,55,0,4,16,43.75,7,24,PERSIJA JAKARTA,1,"Stadion Patriot Chandra Bhaga, Bekasi",19
+3,14,3,66,431,71,0,0,11,11.11,1,10,MADURA UNITED FC,4,4,19,2,71,179,29,0,4,10,62.5,5,15,PERSIK KEDIRI,3,"Stadion Brawijaya, Kediri",19
+4,22,1,102,210,54,0,0,11,16.67,1,14,PERSEBAYA SURABAYA,3,2,17,1,80,184,46,0,2,9,50,3,14,PS BARITO PUTERA,0,"Stadion Demang Lehman, Martapura",19

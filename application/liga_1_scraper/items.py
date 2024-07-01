@@ -1,7 +1,7 @@
 import scrapy
 
 class MatchStatsItem(scrapy.Item):
-    result = scrapy.Field()
+    week = scrapy.Field()
     stadium = scrapy.Field()
 
     home_team = scrapy.Field()

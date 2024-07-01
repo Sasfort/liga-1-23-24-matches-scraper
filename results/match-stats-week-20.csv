@@ -1,0 +1,9 @@
+away_corner_kick,away_foul,away_offside,away_pass_fail,away_pass_success,away_possession,away_red_card,away_score,away_shot,away_shot_accuracy,away_shot_on_target,away_tackle_success,away_team,away_yellow_card,home_corner_kick,home_foul,home_offside,home_pass_fail,home_pass_success,home_possession,home_red_card,home_score,home_shot,home_shot_accuracy,home_shot_on_target,home_tackle_success,home_team,home_yellow_card,stadium,week
+4,5,0,70,522,66,0,2,13,45.45,5,16,PERSIJA JAKARTA,2,5,15,1,74,272,34,0,2,11,70,7,17,BHAYANGKARA PRESISI INDONESIA FC,3,"Stadion Patriot Chandra Bhaga, Bekasi",20
+6,23,1,102,335,58,0,0,7,42.86,3,12,RANS NUSANTARA FC,1,0,23,1,84,249,42,0,3,8,50,4,12,PERSITA TANGERANG,3,"Stadion Indomilk Arena, Tangerang",20
+4,11,2,80,248,43,0,0,14,53.85,7,15,PERSIS SOLO,1,9,14,3,80,342,57,0,1,19,50,7,14,BORNEO FC SAMARINDA,2,"Stadion Segiri, Samarinda",20
+3,15,2,59,256,38,0,5,16,75,9,13,PERSIB BANDUNG,4,5,14,0,83,426,62,0,1,13,75,6,12,DEWA UNITED FC,4,"Stadion Indomilk Arena, Tangerang",20
+2,17,2,86,188,34,0,2,10,71.43,5,13,BALI UNITED FC,6,6,8,2,76,368,66,0,1,18,28.57,4,13,MADURA UNITED FC,2,"Stadion Gelora Bangkalan, Bangkalan",20
+1,7,2,66,366,60,0,1,11,50,4,17,PERSIKABO 1973,2,6,18,1,73,254,40,0,3,18,58.33,7,18,PSM MAKASSAR,0,"Stadion Gelora B. J. Habibie, Pare-pare",20
+7,16,2,88,293,42,0,1,16,38.46,5,18,PERSIK KEDIRI,3,4,15,0,69,407,58,1,0,8,50,3,16,AREMA FC,4,"Stadion Kapten I Wayan Dipta, Gianyar",20
+7,18,0,73,303,51,1,1,11,37.5,3,13,PS BARITO PUTERA,3,2,16,5,88,292,49,0,2,11,42.86,3,15,PSS SLEMAN,0,"Stadion Maguwoharjo, Sleman",20

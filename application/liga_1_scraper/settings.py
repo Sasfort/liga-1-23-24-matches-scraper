@@ -15,12 +15,19 @@ SELENIUM_DRIVER_ARGUMENTS=['--headless']
   
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_selenium.SeleniumMiddleware': 800
-    }
+}
 
 BOT_NAME = "liga_1_scraper"
 
 SPIDER_MODULES = ["liga_1_scraper.spiders"]
 NEWSPIDER_MODULE = "liga_1_scraper.spiders"
+
+FEEDS = {
+    'match-stats.csv': {
+        'format': 'csv',
+        'overwrite': True
+    }
+}
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
