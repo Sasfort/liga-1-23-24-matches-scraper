@@ -4,7 +4,7 @@
 A web scraping project using Scrapy and Selenium to collect the statistics of every match in the Liga 1 23/24 season from PSSI's website.
 
 ## Folder Structure
-application/ => Contains the code used to initiate the web scraping and generate the result into CSV
+application/ => Contains the code used to initiate the web scraping and generate the result into CSV\
 results/ => Contains the result of the application. The final result is stored in the file named match-stats-final.csv
 
 ## How to Run the Code
